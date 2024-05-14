@@ -1,9 +1,12 @@
 ---
-title: "About"
+title: About Me
 ---
 
-About this site
+# About Me
 
-```{r}
-1 + 1
-```
+Hello! My name is [Your Name], and I'm passionate about software development and web technologies. Here's a little bit more about me:
+
+- **Education**: Bachelor’s degree in Applied Artificial Intelligence
+- **Interests**: Game development, web development, and AI
+
+![My Photo](images/my-photo.jpg)

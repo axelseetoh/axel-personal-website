@@ -1,11 +1,12 @@
 ---
-title: "My Personal Website"
+title: Home
 ---
 
-This is a Quarto website.
+# Welcome to My Website
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hi, I'm Axel. Welcome to my personal website. Here, you can learn more about me, my projects, and my interests.
 
-```{r}
-1 + 1
-```
+![A photo of me](images/my-photo.jpg)
+
+Feel free to explore the pages using the navigation bar above.
+

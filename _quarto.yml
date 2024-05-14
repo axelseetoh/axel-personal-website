@@ -1,20 +1,19 @@
 project:
   type: website
-  output-dir: docs
-
 website:
-  title: "My Personal Website"
+  title: "Axel's Personal Website"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-
+      - text: Home
+        href: index.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: About
+        href: about.qmd
+output-dir: docs
 format:
   html:
-    theme: cosmo
     css: styles.css
-    toc: true
 
 
 
