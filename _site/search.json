@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "About Me\nHello! My name is Axel See Toh, and I’m passionate about software development and web technologies. Here’s a little bit more about me:\n\nEducation: Bachelor’s degree in Applied Artificial Intelligence\nInterests: Game development, web development, and AI"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "This is a video that I find relates to me a lot as this helps to motivate me whenever I am feeling down.\n\n\nYour browser does not support the video tag."
+  },
+  {
+    "objectID": "hobbies.html#motivation",
+    "href": "hobbies.html#motivation",
+    "title": "Hobbies",
+    "section": "",
+    "text": "This is a video that I find relates to me a lot as this helps to motivate me whenever I am feeling down.\n\n\nYour browser does not support the video tag."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to My Website\nHi, I’m Axel! Welcome to my personal website. Here, you can learn more about me, my projects, and my interests.\n\n\n\nA photo of me\n\n\nFeel free to explore the pages using the navigation bar above."
+  }
+]
