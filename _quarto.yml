@@ -1,19 +1,18 @@
 project:
   type: website
 website:
-  title: "Axel's Personal Website"
+  title: "Axel's Website"
   navbar:
     left:
       - text: Home
         href: index.qmd
-      - text: Projects
-        href: projects.qmd
+      - text: Hobbies
+        href: hobbies.qmd
       - text: About
         href: about.qmd
 output-dir: docs
 format:
   html:
     css: styles.css
-
 
 

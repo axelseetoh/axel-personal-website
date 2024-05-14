@@ -1,31 +1,24 @@
 [
   {
-    "objectID": "learning-notes.html",
-    "href": "learning-notes.html",
-    "title": "Learning Notes",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
     "section": "",
-    "text": "[Insert your notes or insights on Topic 1 here]\n\n\n\n[Insert your notes or insights on Topic 2 here]\n\n\n\n[Insert your notes or insights on Topic 3 here]"
+    "text": "About Me\nHello! My name is Axel See Toh, and I’m passionate about software development and web technologies. Here’s a little bit more about me:\n\nEducation: Bachelor’s degree in Applied Artificial Intelligence\nInterests: Game development, web development, and AI"
   },
   {
-    "objectID": "learning-notes.html#topic-1",
-    "href": "learning-notes.html#topic-1",
-    "title": "Learning Notes",
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
     "section": "",
-    "text": "[Insert your notes or insights on Topic 1 here]"
+    "text": "This is a video that I find relates to me a lot as this helps to motivate me whenever I am feeling down.\n\n\nYour browser does not support the video tag."
   },
   {
-    "objectID": "learning-notes.html#topic-2",
-    "href": "learning-notes.html#topic-2",
-    "title": "Learning Notes",
+    "objectID": "hobbies.html#motivation",
+    "href": "hobbies.html#motivation",
+    "title": "Hobbies",
     "section": "",
-    "text": "[Insert your notes or insights on Topic 2 here]"
-  },
-  {
-    "objectID": "learning-notes.html#topic-3",
-    "href": "learning-notes.html#topic-3",
-    "title": "Learning Notes",
-    "section": "",
-    "text": "[Insert your notes or insights on Topic 3 here]"
+    "text": "This is a video that I find relates to me a lot as this helps to motivate me whenever I am feeling down.\n\n\nYour browser does not support the video tag."
   },
   {
     "objectID": "index.html",
@@ -33,33 +26,5 @@
     "title": "Home",
     "section": "",
     "text": "Welcome to My Website\nHi, I’m Axel. Welcome to my personal website. Here, you can learn more about me, my projects, and my interests.\n\n\n\nA photo of me\n\n\nFeel free to explore the pages using the navigation bar above."
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "This is a description of my Final Year Project. It involved developing a game engine using LibGDX.\n\n\n\nProject 1 Screenshot\n\n\n\n\n\nThis is a description of another project I worked on. It involved building a personal website using Quarto and hosting it on GitHub Pages.\n\n\n\nProject 2 Screenshot"
-  },
-  {
-    "objectID": "projects.html#project-1-fyp-project",
-    "href": "projects.html#project-1-fyp-project",
-    "title": "Projects",
-    "section": "",
-    "text": "This is a description of my Final Year Project. It involved developing a game engine using LibGDX.\n\n\n\nProject 1 Screenshot"
-  },
-  {
-    "objectID": "projects.html#project-2-another-project",
-    "href": "projects.html#project-2-another-project",
-    "title": "Projects",
-    "section": "",
-    "text": "This is a description of another project I worked on. It involved building a personal website using Quarto and hosting it on GitHub Pages.\n\n\n\nProject 2 Screenshot"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Me",
-    "section": "",
-    "text": "About Me\nHello! My name is [Your Name], and I’m passionate about software development and web technologies. Here’s a little bit more about me:\n\nEducation: Bachelor’s degree in Applied Artificial Intelligence\nInterests: Game development, web development, and AI\n\n\n\n\nMy Photo"
   }
 ]
