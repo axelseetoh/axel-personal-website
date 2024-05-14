@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 website:
   title: "Axel's Website"
   navbar:
@@ -10,7 +11,7 @@ website:
         href: hobbies.qmd
       - text: About
         href: about.qmd
-output-dir: docs
+
 format:
   html:
     css: styles.css
