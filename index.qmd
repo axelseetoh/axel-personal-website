@@ -4,7 +4,7 @@ title: Home
 
 # Welcome to My Website
 
-Hi, I'm Axel. Welcome to my personal website. Here, you can learn more about me, my projects, and my interests.
+Hi, I'm Axel! Welcome to my personal website. Here, you can learn more about me, my projects, and my interests.
 
 ![A photo of me](images/my-photo.jpg)
 
